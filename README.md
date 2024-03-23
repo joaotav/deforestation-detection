@@ -1,6 +1,6 @@
 # Deforestation Detection with KNN
 
-This repository contains a Python script that performs the classification of satellite images in order to detect deforestation areas. The application leverages the k-Nearest Neighbors algorithm to detect deforestation patches and highlight them in red for easy visualization.
+This repository contains a Python script that performs the classification of satellite images in order to detect deforestation areas. The application leverages the k-Nearest Neighbors algorithm to detect deforestation patches and highlight them in red for easy visualization. This repository also includes two curated datasets for the classification algorithm, one for forest and another for deforestation areas.
 
 ## Prerequisites
 
