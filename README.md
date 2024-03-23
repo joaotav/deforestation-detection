@@ -45,8 +45,8 @@ The classified output will be saved as `output.ppm`.
 
 ### Input image (Classified using `k_value` = 16 and `block_size` = 1):
 
-![Example input](docs/imgs/sattelite_img.png)
+![Example input](docs/imgs/satellite_img.jpg)
 
 ### Output image:
 
-![Example output](detection.png)
+![Example output](docs/imgs/detection.png)
